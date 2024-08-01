@@ -1,0 +1,6 @@
+[submodule "nao_meshes"]
+	path = nao_meshes
+	url = https://github.com/ros-naoqi/nao_meshes2.git
+[submodule "pepper_meshes"]
+	path = pepper_meshes
+	url = https://github.com/ros-naoqi/pepper_meshes2.git
